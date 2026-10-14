@@ -6,6 +6,14 @@
     <description>Updates of SRG+ Docs for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.6.0 (202610141627)</title>
+      <pubDate>Wed, 14 Oct 2026 16:32:16 +0000</pubDate>
+      <sparkle:version>202610141627</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/srgplus/srgplus-docs-macos/releases/latest/download/SRG-Plus-Docs.dmg" type="application/octet-stream" sparkle:edSignature="/x8dxJk4VSbvi7dbIYOZsHszD6/6OqRHrKHciRr14gZXQPCrU/qNKGKsZlVGEdNw7se2S6NtNnYfe+q5YU+xAA==" length="5315898" />
+    </item>
+    <item>
       <title>0.5.1 (202610140857)</title>
       <pubDate>Wed, 14 Oct 2026 09:01:45 +0000</pubDate>
       <sparkle:version>202610140857</sparkle:version>
