@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Docs for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.7.3 (202611260222)</title>
+      <pubDate>Thu, 26 Nov 2026 02:24:26 +0000</pubDate>
+      <sparkle:version>202611260222</sparkle:version>
+      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- New: set a Status on any document (To-Do, In Progress, Waiting, Done) and filter the library by status.
+- The document History no longer shows a "new version" line for a document's first file.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-docs-macos/releases/latest/download/SRG-Plus-Docs.dmg" type="application/octet-stream" sparkle:edSignature="xWAXXFcYOjFLJSclmQDhzOkCNiXTmleRPEm8IjNyKXLza2oIY+TfrV3p/TD8V4vo2xTqvMD12yaU+pPKzzMcCw==" length="6308975" />
+    </item>
+    <item>
       <title>0.7.2 (202611211007)</title>
       <pubDate>Sat, 21 Nov 2026 10:11:10 +0000</pubDate>
       <sparkle:version>202611211007</sparkle:version>
